@@ -1,12 +1,33 @@
-## Welcome to GitHub Pages
+## 성희재 이력서 
 
-## 성희재 이력서
 
-안녕하세요.
+## 이메일
+justinahjs@gmail.com
 
-You can use the [editor on GitHub](https://github.com/justinahjs/justinahjs.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## 연락처
+010 - 3307 - 9325
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+## 전공
+
+국제사무학 전공
+기업가정신 복수전공
+
+## 경력 및 활동
+
+2021.07.01 - 2021.08.30 (주)퍼밋 브랜드 홍보팀 인턴
+2021.01.15 이화여대 겨울방학 스타트업 해커톤 캠프
+2020.01.01 - 2020.04.30 캐나다 교환학생
+
+
+
+
+
+
+
+
+
+
 
 ### Markdown
 
